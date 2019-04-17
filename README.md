@@ -19,8 +19,6 @@ Figure 1: Image sequence showing primary 6Hz frequency of object images (O) and 
 ### Analysis
 Analysis was done using a combination of [MNE](https://martinos.org/mne/stable/index.html) and [SSVEPY](https://github.com/janfreyberg/ssvepy) and wrapped in a python notebook wrapper included [here](./Scripts/Face_categorization_Clean.ipnyb).
 
-[I'm an inline-style link](https://www.google.com)
-
 ## References
 de Heering, A., & Rossion, B. (2015). Rapid categorization
 of natural face images in the infant right hemisphere. Elife, 4,

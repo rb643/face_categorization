@@ -17,7 +17,7 @@ Electrophysiological neural signatures have also been shown to be selectively re
 Figure 1: Image sequence showing primary 6Hz frequency of object images (O) and secondary 1.2Hz frequency of face images (F) – taken from de Heering & Rossion (2015).
 
 ### Analysis
-Analysis was done using a combination of [MNE](https://martinos.org/mne/stable/index.html) and [SSVEPY](https://github.com/janfreyberg/ssvepy) and wrapped in a python notebook wrapper included [here](./Scripts/Face_categorization_Clean.ipnyb).
+Analysis was done using a combination of [MNE](https://martinos.org/mne/stable/index.html) and [SSVEPY](https://github.com/janfreyberg/ssvepy) and wrapped in a python notebook wrapper included [here](./Scripts/Face_categorization_Clean.ipynb).
 
 ## References
 de Heering, A., & Rossion, B. (2015). Rapid categorization

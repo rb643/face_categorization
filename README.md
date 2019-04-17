@@ -1,7 +1,8 @@
 # Predicting cognitive empathy from face specific neural signatures
 - Owen E Parsons (oep20@cam.ac.uk)
-- Richard Bethlehem (rb643@cam.ac.uk)
-- Jan Freyberg (jan.freyberg@kcl.ac.uk)
+- Richard Bethlehem (rb643@medschl.cam.ac.uk)
+- Jan Freyberg (jan.freyberg@gmail.com)
+- Josina Kist (jk764@cam.ac.uk)
 - Simon Baron-Cohen (sb205@cam.ac.uk)
 
 
